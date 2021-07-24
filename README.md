@@ -31,6 +31,7 @@ Como já mencionado, meus projetos focam em desenvolvimento Web, Mobile, IoT e e
 * Instagram: @lucas.ccac
 * Linkedin: Lucas Silva
 * Blog: https://blog-hunter.vercel.app/ (AINDA EM DESENVOLVIMENTO)
+* Twitter: @Lucasda24527132
 
 ### Web :computer:
 Em relação a programação Web foco em fazer copias de plataformas e criar projetos simples do total zero.
