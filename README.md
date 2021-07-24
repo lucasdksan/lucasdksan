@@ -32,3 +32,8 @@ Em relação a programação Web foco em fazer copias de plataformas e criar pro
 ### Mobile :iphone:
 Da mesma forma que no Web meus projetos Mobile focam em copias e projetos simples do zero.
 
+## Back-end :floppy_disk:
+Meus projetos de back-end são estruturados usando Node js, a maioria deles com foco na dinâmica de autenticação.
+
+## IoT :space_invader:
+Nesse ramo ainda estou desenvolvendo e tem poucos projetos, porém todos que tem roda em torno na utilização do Arduino.
