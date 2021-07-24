@@ -1,0 +1,34 @@
+# Lucas da Silva Leoncio :smiley:
+
+Estudante de Engenharia Mecatrônica - UFRN
+
+"Gosto de aprender coisas novas e tenho um verdadeiro amor por tecnologias!"
+
+## Skills :computer:
+
+[OK] JavaScript
+[OK] TypeScript
+[OK] HTML
+[OK] CSS
+[OK] C++
+[OK] React Js
+[OK] React Native
+[OK] Next js
+[OK] Electron js
+[OK] Node js
+[OK] Arduino
+
+## Observações :octocat:
+
+Olá, bem vindo ao meu Repositório.
+Aqui você vai encontrar meus projetos de programação Web, Mobile, IoT, Back-end e entre outras coisas.
+Seja feliz e utilize meus trabalhos como fonte de conhecimento desbalanceado.
+Normalmente faço 2 projetos por mês, dependendo da minha situação na faculdade.
+Como já mencionado, meus projetos focam em desenvolvimento Web, Mobile, IoT e entre outros:
+
+### Web :computer:
+Em relação a programação Web foco em fazer copias de plataformas e criar projetos simples do total zero.
+
+### Mobile :iphone:
+Da mesma forma que no Web meus projetos Mobile focam em copias e projetos simples do zero.
+
