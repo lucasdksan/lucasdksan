@@ -6,17 +6,17 @@ Estudante de Engenharia Mecatrônica - UFRN
 
 ## Skills :computer:
 
-[OK] JavaScript
-[OK] TypeScript
-[OK] HTML
-[OK] CSS
-[OK] C++
-[OK] React Js
-[OK] React Native
-[OK] Next js
-[OK] Electron js
-[OK] Node js
-[OK] Arduino
+* [OK] **JavaScript**
+* [OK] **TypeScript**
+* [OK] **HTML**
+* [OK] **CSS**
+* [OK] **C++**
+* [OK] **React Js**
+* [OK] **React Native**
+* [OK] **Next js**
+* [OK] **Electron js**
+* [OK] **Node js**
+* [OK] **Arduino**
 
 ## Observações :octocat:
 
