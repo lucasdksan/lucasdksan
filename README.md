@@ -4,7 +4,7 @@ Estudante de Engenharia Mecatrônica - UFRN
 
 "Gosto de aprender coisas novas e tenho um verdadeiro amor por tecnologias!"
 
-## Skills :computer:
+## Skills :books:
 
 * [OK] **JavaScript**
 * [OK] **TypeScript**
