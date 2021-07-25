@@ -25,6 +25,7 @@ Aqui você vai encontrar meus projetos de programação Web, Mobile, IoT, Back-e
 Você tem a liberdade de utilizar meus trabalhos como fonte de conhecimento desbalanceado.
 Normalmente faço 2 projetos por mês, dependendo da minha situação na faculdade.
 Como já mencionado, meus projetos focam em desenvolvimento Web, Mobile, IoT e entre outros, porém tenho projetos em computação numérica e FPGA que são resultados de atividades da minha faculdade.
+Atualmente atualizo meu git com projetos voltados a programação Web e Mobile, então não se assuste se tiver mais trabalhos nessas áreas.
 
 ### Web :computer:
 Em relação a programação Web foco em fazer copias de plataformas e criar projetos simples do total zero.
