@@ -2,7 +2,7 @@
 
 Estudante de Engenharia Mecatrônica - UFRN
 
-"Gosto de aprender coisas novas e tenho um verdadeiro amor por tecnologias!"
+"Gosto de aprender coisas novas e tenho o verdadeiro amor por tecnologias!"
 
 ## Skills :books:
 
