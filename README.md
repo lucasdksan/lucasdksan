@@ -1,23 +1,30 @@
-# Lucas da Silva Leoncio :smiley:
+# Lucas da Silva Leoncio :smiley: 👷🏾‍♂️
 
 Estudante de Engenharia Mecatrônica - UFRN
 
 "Gosto de aprender coisas novas e tenho o verdadeiro amor por tecnologias!"
 
-## Skills :books:
-
-* [OK] **JavaScript**
-* [OK] **TypeScript**
-* [OK] **HTML**
-* [OK] **CSS**
-* [OK] **C++**
-* [OK] **React Js**
-* [OK] **React Native**
-* [OK] **Next js**
-* [OK] **Electron js**
-* [OK] **Node js**
-* [OK] **Arduino**
-
+<div>
+  <a href="https://github.com/lucasdksan">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasdksan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdksan&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+## Skills 💻📚
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-Electron" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
+  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Lucas-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Lucas-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+</div>
+  
 ## Observações :octocat:
 
 Olá, bem vindo ao meu Repositório.
