@@ -48,7 +48,10 @@ Nesse ramo ainda estou desenvolvendo e tem poucos projetos, porém todos que tem
 
 ## Redes Sociais :iphone:
 
-* Instagram: @lucas.ccac
-* Linkedin: Lucas Silva
-* Blog: https://blog-hunter.vercel.app/ (AINDA EM DESENVOLVIMENTO)
-* Twitter: @Lucasda24527132
+<div> 
+  <a href="https://www.instagram.com/lucas.ccac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/Lucasda24527132" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=Lucas&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLucasda24527132" target="_blank"></a>
+ <a href="https://blog-hunter.vercel.app/" target="_blank"><img src="https://img.shields.io/website?down_color=black&label=Website&style=for-the-badge&up_color=purple&up_message=Blog%20Hunter&url=https%3A%2F%2Fblog-hunter.vercel.app%2F" target="_blank"></a> 
+  <a href = "mailto:lucas.leoncio.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-silva-464b45164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
