@@ -1,6 +1,6 @@
 # Lucas da Silva Leoncio :smiley: 👷🏾‍♂️
 
-Estudante de Engenharia de Computação - UFRN
+Estudante de Engenharia Mecatrônica - UFRN
 
 "Gosto de aprender coisas novas e tenho o verdadeiro amor por tecnologias!"
 
