@@ -1,4 +1,4 @@
-# Lucas da Silva Leoncio :smiley: 👷🏾‍♂️
+# Lucas da Silva Leoncio :smiley: :computer:
 
 Estudante de Engenharia Mecatrônica - UFRN
 
