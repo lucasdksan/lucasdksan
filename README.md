@@ -48,7 +48,7 @@ Meus projetos de back-end são estruturados usando Node js, a maioria deles com 
 
 ## Redes Sociais :iphone:
 
-<div> 
+<div style="display: none"> 
   <a href="https://www.instagram.com/lucas.ccac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/Lucasda24527132" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=Lucas&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLucasda24527132" target="_blank"></a>
  <a href="https://blog-hunter-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/website?down_color=black&label=Website&style=for-the-badge&up_color=purple&up_message=Blog%20Hunter&url=https%3A%2F%2Fblog-hunter.vercel.app%2F" target="_blank"></a> 
