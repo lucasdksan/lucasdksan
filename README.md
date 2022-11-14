@@ -2,7 +2,7 @@
 
 Estudante de Engenharia Mecatrônica - UFRN
 
-Desenvolvedor Front-End Junior na Agência N1.
+Desenvolvedor Front-End Junior na Agência N1 (1 ano de experiência).
 
 "Gosto de aprender coisas novas e tenho o verdadeiro amor por tecnologias!"
 
