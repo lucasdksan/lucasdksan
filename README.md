@@ -46,7 +46,7 @@ Da mesma forma que no Web meus projetos Mobile focam em copias e projetos simple
 ### Back-end :floppy_disk:
 Meus projetos de back-end são estruturados usando Node js, a maioria deles com foco na dinâmica de autenticação.
 
-## Redes Sociais :iphone:
+<!-- ## Redes Sociais :iphone: -->
 
 <!-- <div> 
   <a href="https://www.instagram.com/lucas.ccac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
