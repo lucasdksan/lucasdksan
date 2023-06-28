@@ -30,20 +30,22 @@ Desenvolvedor Front-End Junior na Agência N1 (1 ano de experiência).
   
 ## Observações :octocat:
 
-Olá, bem vindo ao meu Repositório.
-Aqui você vai encontrar meus projetos de programação Web, Mobile, IoT, Back-end e entre outras coisas.
-Você tem a liberdade de utilizar meus trabalhos como fonte de conhecimento desbalanceado.
-Normalmente faço 2 projetos por mês, dependendo da minha situação na faculdade.
-Como já mencionado, meus projetos focam em desenvolvimento Web, Mobile, IoT e entre outros, porém tenho projetos em computação numérica e FPGA que são resultados de atividades da minha faculdade.
-Atualmente atualizo meu git com projetos voltados a programação Web e Mobile, então não se assuste se tiver mais trabalhos nessas áreas.
 
-### Web :computer:
+Olá, seja bem-vindo ao meu Repositório!
+
+Aqui você encontrará uma variedade de projetos que desenvolvi, abrangendo programação Web, Mobile, Back-end e muito mais. Fique à vontade para utilizar meu trabalho como fonte de conhecimento diversificado.
+
+Normalmente, concluo cerca de dois projetos por mês, embora isso possa variar dependendo das demandas da minha faculdade. Embora meu foco principal esteja no desenvolvimento Web, Mobile e IoT, também tenho projetos relacionados à computação numérica e FPGA, que são resultados das atividades acadêmicas que realizei.
+
+Atualmente, estou atualizando meu repositório com projetos voltados para programação Web e Mobile. Portanto, não se surpreenda se encontrar mais trabalhos nessas áreas em particular.
+
+*Web :computer:
 Em relação a programação Web foco em fazer copias de plataformas e criar projetos simples do total zero.
 
-### Mobile :iphone:
+*Mobile :iphone:
 Da mesma forma que no Web meus projetos Mobile focam em copias e projetos simples do zero.
 
-### Back-end :floppy_disk:
+*Back-end :floppy_disk:
 Meus projetos de back-end são estruturados usando Node js, a maioria deles com foco na dinâmica de autenticação.
 
 <!-- ## Redes Sociais :iphone: -->
