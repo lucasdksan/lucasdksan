@@ -34,28 +34,6 @@ Desenvolvedor Front-End Junior na Agência N1 (2 ano de experiência).
 
 Olá, seja bem-vindo ao meu Repositório!
 
-Aqui você encontrará uma variedade de projetos que desenvolvi, abrangendo programação Web, Mobile, Back-end e muito mais. Fique à vontade para utilizar meu trabalho como fonte de conhecimento diversificado.
+Aqui você encontrará uma variedade de projetos que desenvolvi, abrangendo programação Web. Fique à vontade para utilizar meu trabalho como fonte de conhecimento diversificado.
 
-Normalmente, concluo cerca de dois projetos por mês, embora isso possa variar dependendo das demandas da minha faculdade. Embora meu foco principal esteja no desenvolvimento Web, Mobile e IoT, também tenho projetos relacionados à computação numérica e FPGA, que são resultados das atividades acadêmicas que realizei.
-
-Atualmente, estou atualizando meu repositório com projetos voltados para programação Web e Mobile. Portanto, não se surpreenda se encontrar mais trabalhos nessas áreas em particular.
-
-*Web :computer:
-Em relação a programação Web foco em fazer copias de plataformas e criar projetos simples do total zero.
-
-*Mobile :iphone:
-Da mesma forma que no Web meus projetos Mobile focam em copias e projetos simples do zero.
-
-*Back-end :floppy_disk:
-Meus projetos de back-end são estruturados usando Node js, a maioria deles com foco na dinâmica de autenticação.
-
-<!-- ## Redes Sociais :iphone: -->
-
-<!-- <div> 
-  <a href="https://www.instagram.com/lucas.ccac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/Lucasda24527132" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=Lucas&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLucasda24527132" target="_blank"></a>
- <a href="https://blog-hunter-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/website?down_color=black&label=Website&style=for-the-badge&up_color=purple&up_message=Blog%20Hunter&url=https%3A%2F%2Fblog-hunter.vercel.app%2F" target="_blank"></a> 
-  <a href = "mailto:lucas.leoncio.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-silva-464b45164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div> -->
 
