@@ -1,10 +1,7 @@
 # Lucas da Silva Leoncio :smiley: :computer:
 
-Estudante de Engenharia Mecatrônica - UFRN
-
-Desenvolvedor Front-End Junior na Agência N1 (2 ano de experiência).
-
-"Gosto de aprender coisas novas e tenho o verdadeiro amor por tecnologias!"
+Desenvolvedor Front-End Pleno.
+Desenvolvedor Back-End em construção.
 
 <div>
   <a href="https://github.com/lucasdksan">
@@ -27,14 +24,9 @@ Desenvolvedor Front-End Junior na Agência N1 (2 ano de experiência).
   <img align="center" alt="Lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Lucas-Vtex" height="30" width="40" src="https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg">
-  
 </div>
   
 ## Observações :octocat:
 
-
-Olá, seja bem-vindo ao meu Repositório!
-
-Aqui você encontrará uma variedade de projetos que desenvolvi, abrangendo programação Web. Fique à vontade para utilizar meu trabalho como fonte de conhecimento diversificado.
-
+Olá, seja bem-vindo ao meu Git!
 
