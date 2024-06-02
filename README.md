@@ -3,6 +3,9 @@
 Desenvolvedor Front-End Pleno. <br />
 Desenvolvedor Back-End em construção. <br />
 
+<p>Olá, seja bem-vindo ao meu GitHub</p> <br/>
+<p>Aqui você encontrará uma variedade de projetos focados em front-end, além dos resultados dos meus estudos em back-end e outras linguagens relacionadas a essa área.</p> <br /> 
+
 <div>
   <a href="https://github.com/lucasdksan">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasdksan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -25,8 +28,4 @@ Desenvolvedor Back-End em construção. <br />
   <img align="center" alt="Lucas-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Lucas-Vtex" height="30" width="40" src="https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg">
 </div>
-  
-## Observações :octocat:
-
-Olá, seja bem-vindo ao meu Git!
 
