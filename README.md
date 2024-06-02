@@ -4,7 +4,7 @@ Desenvolvedor Front-End Pleno. <br />
 Desenvolvedor Back-End em construção. <br />
 
 <p>Olá, seja bem-vindo ao meu GitHub! <br /> Aqui você encontrará uma variedade de projetos focados em front-end, além dos resultados dos meus estudos em back-end e outras linguagens relacionadas a essa área.</p>
-
+<br />
 <div>
   <a href="https://github.com/lucasdksan">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasdksan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
