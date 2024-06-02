@@ -3,7 +3,7 @@
 Desenvolvedor Front-End Pleno. <br />
 Desenvolvedor Back-End em construção. <br />
 
-<p>Olá, seja bem-vindo ao meu GitHub</p> <br/>
+<p>Olá, seja bem-vindo ao meu GitHub</p>
 <p>Aqui você encontrará uma variedade de projetos focados em front-end, além dos resultados dos meus estudos em back-end e outras linguagens relacionadas a essa área.</p> <br /> 
 
 <div>
