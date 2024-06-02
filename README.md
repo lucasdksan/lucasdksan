@@ -1,7 +1,7 @@
 # Lucas da Silva Leoncio :smiley: :computer:
 
-Desenvolvedor Front-End Pleno.
-Desenvolvedor Back-End em construção.
+Desenvolvedor Front-End Pleno. <br />
+Desenvolvedor Back-End em construção. <br />
 
 <div>
   <a href="https://github.com/lucasdksan">
