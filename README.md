@@ -32,6 +32,5 @@ Desenvolvedor Back-End em construção. <br />
   <img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
   <img align="center" alt="Lucas-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-  <img align="center" alt="Lucas-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 </div>
 
