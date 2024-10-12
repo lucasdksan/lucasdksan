@@ -27,7 +27,8 @@ Desenvolvedor Back-End em construção. <br />
     <img align="center" alt="Lucas-JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />
     <img align="center" alt="Lucas-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Lucas-Vtex" height="30" width="40" src="https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg" />
+    <img align="center" alt="Lucas-Vtex" height="30" width="40" src="https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg" />
+    <img align="center" alt="Lucas-Deco" height="30" width="40" src="https://avatars.githubusercontent.com/u/104853950?s=200&v=4" />
   </div>
   <br />
   <div>
