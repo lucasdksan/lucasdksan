@@ -1,9 +1,9 @@
 # Lucas da Silva Leoncio :smiley: :computer:
 
 Desenvolvedor Front-End Pleno. <br />
-Desenvolvedor Back-End em construção. <br />
+Desenvolvedor Back-End Júnior. <br />
 
-<p>Olá, seja bem-vindo ao meu GitHub! <br /> Aqui você encontrará uma variedade de projetos focados em front-end, além dos resultados dos meus estudos em back-end e outras linguagens relacionadas a essa área.</p>
+<p>Olá, seja bem-vindo ao meu GitHub! <br /> Trabalho na área desde 2020</p>
 <br />
 <div>
   <a href="https://github.com/lucasdksan">
