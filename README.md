@@ -7,7 +7,9 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
 ## 🔧 Skills
 
 - **Front-End:**
+
 <br />
+
 <div>
     <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img align="center" alt="Lucas-JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />
@@ -19,9 +21,13 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
     <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="Lucas-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
+
 <br />
+
 - **Back-End:**
+
 <br />
+
 <div>
     <img align="center" alt="Lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
@@ -29,21 +35,31 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
     <img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" />
     <img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 </div>
+
 <br />
+
 - **Outros:**
+
 <br />
+
 <div>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="Lucas-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 </div>
+
 <br />
+
 ---
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdksan&show_icons=true&theme=dark)](https://github.com/lucasdksan)
+<div>
+  <a href="https://github.com/lucasdksan">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasdksan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdksan&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
@@ -55,4 +71,5 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
 ---
 
 ## 📬 Contato
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lucas-silva-464b45164/)
