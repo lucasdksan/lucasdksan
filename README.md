@@ -6,8 +6,6 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
 
 ## 🔧 Skills
 
-- **Front-End:**
-
 <br />
 
 <div>
@@ -24,10 +22,6 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
 
 <br />
 
-- **Back-End:**
-
-<br />
-
 <div>
     <img align="center" alt="Lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
@@ -35,10 +29,6 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
     <img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" />
     <img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 </div>
-
-<br />
-
-- **Outros:**
 
 <br />
 
