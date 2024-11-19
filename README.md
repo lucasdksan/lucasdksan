@@ -5,14 +5,43 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
 ---
 
 ## 🔧 Skills
-- **Front-End:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
-- **Back-End:** ![Go](https://img.shields.io/badge/-Go-blue?logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
-- **Outros:** ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white) ![VTEX](https://img.shields.io/badge/-VTEX-pink?logo=vtex)
+- **Front-End:**
+
+<ul>
+    <li><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></li>
+    <li><img align="center" alt="Lucas-JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" /></li>
+    <li><img align="center" alt="Lucas-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" /></li>
+    <li><img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></li>
+    <li><img align="center" alt="Lucas-Vtex" height="30" width="40" src="https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg" /></li>
+    <li><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></li>
+    <li><img align="center" alt="Lucas-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></li>
+    <li><img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /></li>
+    <li><img align="center" alt="Lucas-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></li>
+</ul>
+  
+- **Back-End:** ![Go](https://img.shields.io/badge/-Go-blue?logo=go&logoColor=white)
+
+<ul>
+    <li><img align="center" alt="Lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></li>
+    <li><img align="center" alt="Lucas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" /></li>
+    <li><img align="center" alt="Lucas-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" /></li>
+    <li><img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" /></li>
+    <li><img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /></li>
+</ul>
+
+- **Outros:**
+
+<ul>
+  <li><img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></li>
+  <li><img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/></li>
+  <li><img align="center" alt="Lucas-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" /></li>
+  <li><img align="center" alt="Lucas-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /></li>
+</ul>
 
 ---
 
 ## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdklsan&show_icons=true&theme=dark)](https://github.com/lucasdklsan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdksan&show_icons=true&theme=dark)](https://github.com/lucasdksan)
 
 ---
 
