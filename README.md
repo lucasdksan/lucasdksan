@@ -1,44 +1,26 @@
-# Lucas da Silva Leoncio :smiley: :computer:
+# Lucas da Silva Leoncio 🚀 | Desenvolvedor Full Stack
 
-Desenvolvedor Front-End Pleno. <br />
-Desenvolvedor Back-End Júnior. <br />
+Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluções back-end eficientes. Trabalho com tecnologia desde 2020 e sempre busco evoluir minhas habilidades.
 
-<p>Olá, seja bem-vindo ao meu GitHub! <br /> Trabalho na área desde 2020</p>
-<br />
-<div>
-  <a href="https://github.com/lucasdksan">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasdksan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdksan&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-## Skills 💻📚
-  
-<div style="display: inline_block"><br />
-  <div>
-    <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-    <img align="center" alt="Lucas-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
-    <img align="center" alt="Lucas-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-  </div>
-  <br />
-  <div>
-    <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />  
-    <img align="center" alt="Lucas-JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />
-    <img align="center" alt="Lucas-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
-    <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" alt="Lucas-Vtex" height="30" width="40" src="https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg" />
-    <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img align="center" alt="Lucas-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-    <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="Lucas-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
-  </div>
-  <br />
-  <div>
-    <img align="center" alt="Lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-    <img align="center" alt="Lucas-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
-    <img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" />
-    <img align="center" alt="Lucas-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-  </div>
-</div>
+---
 
+## 🔧 Skills
+- **Front-End:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+- **Back-End:** ![Go](https://img.shields.io/badge/-Go-blue?logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
+- **Outros:** ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white) ![VTEX](https://img.shields.io/badge/-VTEX-pink?logo=vtex)
+
+---
+
+## 📈 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdklsan&show_icons=true&theme=dark)](https://github.com/lucasdklsan)
+
+---
+
+## 🌟 Projetos Recentes
+- **[Projeto 1](https://github.com/lucasdksan/book-management):** Back End para gerenciar uma livraria.
+- **[Projeto 2](https://github.com/lucasdksan/gopportunities):** Projeto simples usando Go.
+
+---
+
+## 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lucas-silva-464b45164/)
