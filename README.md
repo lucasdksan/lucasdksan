@@ -1,6 +1,6 @@
 # Lucas da Silva Leoncio 🚀 | Desenvolvedor Full Stack
 
-Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluções back-end eficientes. Trabalho com tecnologia desde 2020 e sempre busco evoluir minhas habilidades.
+Olá, sou um desenvolvedor apaixonado pela criação de interfaces dinâmicas e soluções back-end eficientes. Trabalho na área de tecnologia desde 2020 e estou sempre em busca de aprimorar minhas habilidades. Se quiser conferir meu trabalho mais recente, acesse [cry console](https://console.crystalflow.online/).
 
 ---
 
@@ -13,7 +13,7 @@ Olá, sou um desenvolvedor apaixonado por criar interfaces dinâmicas e soluçõ
     <img align="center" alt="Lucas-JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" />
     <img align="center" alt="Lucas-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" alt="Lucas-Vtex" height="30" width="40" src="https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg" />
+    <img align="center" alt="Lucas-Vtex" height="30" width="40" src="https://avatars.githubusercontent.com/u/1288938" />
     <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" alt="Lucas-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
     <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
